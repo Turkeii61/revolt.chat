@@ -1,5 +1,5 @@
 {
-  "extends": "astro/tsconfigs/strict",
+  "extends": "@tsconfig/strictest/tsconfig.json",
   "compilerOptions": {
     "jsx": "preserve",
     "jsxImportSource": "solid-js"
